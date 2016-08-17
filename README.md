@@ -1,3 +1,3 @@
 # Sarcasm-Detection
 
-Readme mile
+Automatic Sarcasm Detection in tweets
